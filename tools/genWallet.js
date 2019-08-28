@@ -33,7 +33,6 @@ const createWallet = async (patp) => {
   const config = {
     ship: num,
     ticket: patp,
-
   }
   const wallet = await kg.generateWallet(config)
   return wallet

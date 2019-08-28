@@ -6,16 +6,16 @@ During the development process of `PaperCollateralRenderer` we have encountered 
 
 **1. Font rendering**
 
-- If the desired font is not rendering, 
-- Solution #1: This lib requires base64 encoded fonts in order to guarantee font availability.  Check that your font is included in this format.
-- Solution #2: Ensure that the imported fonts match all fonts used in your template, *especially the specific font weights.*  Each template has [an array](https://github.com/urbit/PaperCollateralRenderer/blob/master/lib/src/templates.json) of fontFamilies and fontWeights used.
+- If the desired font is not rendering,
+- Solution #1: This lib requires base64 encoded fonts in order to guarantee font availability. Check that your font is included in this format.
+- Solution #2: Ensure that the imported fonts match all fonts used in your template, _especially the specific font weights._ Each template has [an array](https://github.com/urbit/PaperCollateralRenderer/blob/master/lib/src/templates.json) of fontFamilies and fontWeights used.
 
 - How to test: In order to test for font availability, you must open font book and disable Inter, Inter UI and Source Code Pro or any fonts this library uses.
 
 **2. Package issues**
 
 - If your stack trace is something along the lines of:
-`'urbit-sigil-js' is imported by dist/js/lib/load.js, but could not be resolved – treating it as an external dependency`
+  `'urbit-sigil-js' is imported by dist/js/lib/load.js, but could not be resolved – treating it as an external dependency`
 
 - Solution #1: run `npm install` to install all necessary packages
 - Solution #2: if the error persists even after Solution #1, try to npm install each component individually, such as `npm i urbit-sigil-js`

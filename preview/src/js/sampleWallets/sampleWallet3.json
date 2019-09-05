@@ -1,0 +1,180 @@
+[
+  {
+    "meta": {
+      "generator": {
+        "name": "urbit-key-generation",
+        "version": "0.17.0"
+      },
+      "spec": "UP8",
+      "ship": 3137227147,
+      "patp": "~nilsun-mipryn",
+      "tier": "planet",
+      "derivationPath": "m/44'/60'/0'/0/0",
+      "passphrase": null
+    },
+    "ticket": "~marbud-tidsev-litsut-hidfep",
+    "shards": ["~marbud-tidsev-litsut-hidfep"],
+    "ownership": {
+      "type": "ownership",
+      "seed": "isolate attend rough purity usage oak health head expect major execute viable fee approve happy maple dust fever amazing advance protect amused public cloth",
+      "keys": {
+        "public": "03d092d60bd3058c3f9cbe8b2af0aeb6aada02478f65e7f55f45149098208cc828",
+        "private": "fe0cfcea335536b4cfe2cc2e88d19cd6823693fc87e1532e247841bae46c9bac",
+        "chain": "61953e2650bda53e671fff99fd437b600d2ef589188064b92be4234ecab3c52a",
+        "address": "0x5c170227ea567bC7fCC49dd2850939fD4597b686"
+      }
+    },
+    "transfer": {
+      "type": "transfer",
+      "seed": "winner drip imitate bag eagle congress material paddle useful daring torch grid bleak dust citizen limb axis quote hazard pudding balance mixture evidence age",
+      "keys": {
+        "public": "03fe3e484c32d9b156536d52375c30dd5052d33eccbcf5fd2fa654dffb7317d95c",
+        "private": "3d0e478502b87c0d529e1a48d69dbfe3d62c55cd88377e3f248870b9c6771775",
+        "chain": "c7b16a5eefd360a91fb3422a45ed72d8953f0083e620908ee1b8004ea90e247e",
+        "address": "0x17DA70E6f03aff8a99f866107BfE66AE5a030a8b"
+      }
+    },
+    "spawn": {},
+    "voting": {},
+    "management": {
+      "type": "management",
+      "seed": "venture funny regret ticket unusual foster salad kiwi refuse outside visa curve potato rice nasty absent want trade wool famous network helmet swamp base",
+      "keys": {
+        "public": "03fb7405559c116a3d27ab37fa000bdb50982a185e2a2e268bc7b4159b3fa71492",
+        "private": "fa29478d829f53794758d1456363b178b25115df5aca64922debcb8e544a42ca",
+        "chain": "a2d42a0d2117d1c5a2c81ef370128f24af734edbc7d0be4c384a58cd6189a5e4",
+        "address": "0xc2248071382647729092A648A206459935e3638f"
+      }
+    },
+    "network": {}
+  },
+  {
+    "meta": {
+      "generator": {
+        "name": "urbit-key-generation",
+        "version": "0.17.0"
+      },
+      "spec": "UP8",
+      "ship": 35393,
+      "patp": "~figreb",
+      "tier": "star",
+      "derivationPath": "m/44'/60'/0'/0/0",
+      "passphrase": null
+    },
+    "ticket": "~marbud-tidsev-litsut-hidfep-marbud-tidsev-litsut-hidfep",
+    "shards": ["~marbud-tidsev-litsut-hidfep-marbud-tidsev-litsut-hidfep"],
+    "ownership": {
+      "type": "ownership",
+      "seed": "fury diagram another alarm slice mimic minute buffalo they deny bronze expand error fetch blast bachelor deputy rebuild miracle fatigue behave elegant toe pistol",
+      "keys": {
+        "public": "02dd0b3e03f18e58247b91d7568112a9ddc5dfe0f45da52b6606b251e02c201bd5",
+        "private": "841013d259c7704fdbde2dead0e53975a6ed396884571607397aee6e8704f47a",
+        "chain": "162baa4867dad4b6cf945f7cba8721b4cc1afb92baf06701bffce5b1c70bbab4",
+        "address": "0x97a2966493611c34Da678f5F296AD5d82e0600F2"
+      }
+    },
+    "transfer": {
+      "type": "transfer",
+      "seed": "win flight cushion fashion hamster pepper file fall toy pond eternal level mesh scissors body beef work gift maid owner erupt course fat pupil",
+      "keys": {
+        "public": "02bc158a331fa44e768accf24951a0a4a5c41c92ccb5dfd19594b94ebf93990b26",
+        "private": "ec9c30c59d4f96aa039ca3706de34affa7fe9055cbf422e75db869eaceaf8d5b",
+        "chain": "3f461454ddcc0550c4157437c58e2c69d839c2ae9b4e08f5075e611c2f9a32f0",
+        "address": "0x5B52C0E8d0a8C713199Ef3843C8025d9279ea01f"
+      }
+    },
+    "spawn": {
+      "type": "spawn",
+      "seed": "immune roast onion clinic link grocery card clarify junk hurry busy issue jar amazing empty velvet roast panel smoke ozone satisfy fancy drill orient",
+      "keys": {
+        "public": "0375412da5bb80bfb324dcae3016e12afb723d4c206fa06ec6d260958911671af9",
+        "private": "e874a56ded480142a8a9dc1056409e2816d55a36a7310d391482ee679cd95bf6",
+        "chain": "bc25d4e7aae752802ca12fb7eccf4c3b1763223d89bf0220f25c9c1e35b833f3",
+        "address": "0x5756Ba8125ac8E874E16f423C027E30d5D8ffA61"
+      }
+    },
+    "voting": {},
+    "management": {
+      "type": "management",
+      "seed": "firm mention tackle leaf squirrel balance region denial dish comic remain enable collect scheme valley gorilla street surround coin radio draft name position coast",
+      "keys": {
+        "public": "02b9a99017bdeafa9bb606c7aa3e1e4674abb83fd114c658d7c7c8010234d3906a",
+        "private": "ba485e4008c016ff9d0ba953506f1b2a70166f9a0db3499744f66b7cdd4359cb",
+        "chain": "47bf4c27b4d852cbc634eb0255ed8df70b7123c518409276a4a9ddc3e87377a9",
+        "address": "0xf9970d357594aF5f5ea269e025713471bECfc40d"
+      }
+    },
+    "network": {}
+  },
+  {
+    "meta": {
+      "generator": {
+        "name": "urbit-key-generation",
+        "version": "0.17.0"
+      },
+      "spec": "UP8",
+      "ship": 186,
+      "patp": "~pex",
+      "tier": "galaxy",
+      "derivationPath": "m/44'/60'/0'/0/0",
+      "passphrase": null
+    },
+    "ticket": "~wacfus-dabpex-danted-mosfep-pasrud-lavmer-nodtex-taslus-pactyp-milpub-pildeg-fornev-ralmed-dinfeb-fopbyr-sanbet-sovmyl-dozsut-mogsyx-mapwyc-sorrup-ricnec-marnys-lignex",
+    "shards": [
+      "~wacfus-dabpex-danted-mosfep-pasrud-lavmer-nodtex-taslus-pactyp-milpub-pildeg-fornev-ralmed-dinfeb-fopbyr-sanbet",
+      "~pactyp-milpub-pildeg-fornev-ralmed-dinfeb-fopbyr-sanbet-sovmyl-dozsut-mogsyx-mapwyc-sorrup-ricnec-marnys-lignex",
+      "~wacfus-dabpex-danted-mosfep-pasrud-lavmer-nodtex-taslus-sovmyl-dozsut-mogsyx-mapwyc-sorrup-ricnec-marnys-lignex"
+    ],
+    "ownership": {
+      "type": "ownership",
+      "seed": "silver doctor crowd visa swamp cage bulk cancel pipe online employ alert honey midnight recycle vicious love clay raven betray level trip bubble hurdle",
+      "keys": {
+        "public": "02e9d9f4c7f9933b91130fff224978f1012acacee77db1fc54ed6b848a24a2a079",
+        "private": "32533599974a6717587a4a011314b3af685627c59ffdcb987c37a0a5f5ae9058",
+        "chain": "146396d05a15dfd02dea7130f188d8d19a19be1da8c732147f76c6b32b050ad2",
+        "address": "0xD6A0E7Fd04E0F4cB065c29abD73b3cb9Ca7313dc"
+      }
+    },
+    "transfer": {
+      "type": "transfer",
+      "seed": "quit april off pioneer pluck fix coil enough replace fat castle rare wool nominee expose genius large topple dumb monkey stay napkin edge still",
+      "keys": {
+        "public": "0216b60d118736e4b12ee1151fc5bc0a29593bf15fdac983666564ce597670520a",
+        "private": "6069077c5985b61cd9e64f1fca633f8b33a2b91cfb33511d41f33465c7204843",
+        "chain": "28092359988dd5a727b24742dddad1b3d48f234dac19a300cacb538bc7bd01e1",
+        "address": "0x4A9327e06dd7Ff634cC6e2bf26D81E47Fca0D834"
+      }
+    },
+    "spawn": {
+      "type": "spawn",
+      "seed": "foil wonder tongue build merge eyebrow essay episode rural prefer blanket garbage universe end angry marine flush ordinary smoke matrix couple crime impact tenant",
+      "keys": {
+        "public": "0357074af0eee1090b8e13afa0f00db08f477d02a106f805a140ce1644764a96ab",
+        "private": "dd43fa312b6cd05ec6089995220edb415eb1f289ae7ac9a91b95d9f8e5c92bcf",
+        "chain": "4c80cecc1fe92f6eb34c68bfe3bc481b7806e8896d83ca0b521eac143f3c52e6",
+        "address": "0x31F5D039A7C8d0190Fa3d75bD2f87B900040a39f"
+      }
+    },
+    "voting": {
+      "type": "voting",
+      "seed": "access retreat metal law replace search shrimp gossip dutch hamster myth typical make beef beach derive friend salmon poet empty lunch digital again churn",
+      "keys": {
+        "public": "03e1ef531714a5b21416073f5734df6b3fe805dfdbb91275118320aeac494452be",
+        "private": "2180528f54f7f8159f056f71b7eb6e640a6b7c2622bcdde6785dca737dc7f725",
+        "chain": "8c2f1836fbe3815e20e5ed538f4a3b86366ea39cd01bf01dd246ee11117e0ae9",
+        "address": "0x1b094a693Ac1A6288b8fE4fd0ca1AA3B28579191"
+      }
+    },
+    "management": {
+      "type": "management",
+      "seed": "jeans fetch rhythm used photo twin lesson unique genius pepper steel rookie mail pill onion walk uncle route custom leader pet stove depend inject",
+      "keys": {
+        "public": "03534e5edab4bf1b28470d257899a2d9e52c3e9d275f184da286a8160542e135da",
+        "private": "63ea015c9da8b3ec89fcfac19a9d1176fbc92174717a090a25e8d1ce0cc81c9d",
+        "chain": "1b5417df0a09898a461ada53fdacda31b40d64950ffc9be16401c95aa84c4dd4",
+        "address": "0x3834C282C9B0662f0c848e8be8e099618e87092a"
+      }
+    },
+    "network": {}
+  }
+]

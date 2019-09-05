@@ -1,10 +1,15 @@
 import React, { Component } from 'react'
 import wallets from './sampleWallets/sampleWallet0.json'
+// import wallets from './sampleWallets/sampleWallet1.json'
+// import wallets from './sampleWallets/sampleWallet2.json'
+// import wallets from './sampleWallets/sampleWallet3.json'
+// import wallets from './sampleWallets/sampleWallet4.json'
 import templates from '../../../lib/src/templates.json'
 import FileSaver from 'file-saver'
 
 import PaperRenderer from '../../../lib/dist/index.js'
 
+import jsPDF from 'jsPDF'
 class App extends Component {
   constructor(props) {
     super(props)
@@ -23,7 +28,21 @@ class App extends Component {
   }
 
   handleDownload = () => {
-    console.log('handleDownload does not work')
+    const imgs = Object.values(document.getElementsByTagName('img'))
+    var pdf = new jsPDF()
+    imgs.forEach(function(img) {
+      pdf.addImage(
+        img.src,
+        'JPEG',
+        0,
+        0,
+        img.clientWidth / 4,
+        img.clientHeight / 4
+      )
+      pdf.addPage()
+    })
+    pdf.deletePage(pdf.internal.getNumberOfPages())
+    pdf.save('wallets.pdf')
   }
 
   render() {
@@ -54,12 +73,7 @@ class App extends Component {
           </p>
           <p>Expected Fonts</p>
           <pre>{JSON.stringify(fontCount, null, ' ')}</pre>
-          <button
-            onClick={() => this.handleDownload()}
-            disabled={disableDownload}
-          >
-            Download
-          </button>
+          <button onClick={() => this.handleDownload()}>Download</button>
         </div>
         {
           <PaperRenderer

@@ -12,6 +12,7 @@ const randNumBit = (num) => {
 }
 
 const writeData = (data, path) => {
+  // console.log(data)
   const fmtData = JSON.stringify(data, null, 2)
   fs.writeFile(path, fmtData, (err) => {
     if (err) throw err
@@ -24,6 +25,9 @@ const writeData = (data, path) => {
 // optional bool: galaxy wallet generation, default true
 // optional int: num of sampleWallet files to generate, default 1
 const createSampleWallets = async (
+  planetNums = null,
+  starNums = null,
+  galaxyNums = null,
   outputPath = OUTPUT_PATH,
   planet = true,
   star = true,
@@ -33,20 +37,20 @@ const createSampleWallets = async (
   for (var i = 0; i < num; i++) {
     var sampleWallet = []
     const path = `${outputPath}/sampleWallet${i}.json`
+    var planetNum = planetNums === null ? randNumBit(32) : planetNums[i]
+    var starNum = starNums === null ? randNumBit(16) : starNums[i]
+    var galaxyNum = galaxyNums === null ? randNumBit(8) : galaxyNums[i]
 
     const planetWallet = await kg.generateWallet({
-      // ship: randNumBit(32),
-      ship: 12412515,
+      ship: planetNum,
       ticket: '~marbud-tidsev-litsut-hidfep',
     })
     const starWallet = await kg.generateWallet({
-      // ship: randNumBit(16),
-      ship: 38947,
+      ship: starNum,
       ticket: '~marbud-tidsev-litsut-hidfep-marbud-tidsev-litsut-hidfep',
     })
     const galaxyWallet = await kg.generateWallet({
-      // ship: randNumBit(8),
-      ship: 19,
+      ship: galaxyNum,
       ticket:
         '~wacfus-dabpex-danted-mosfep-pasrud-lavmer-nodtex-taslus-pactyp-milpub-pildeg-fornev-ralmed-dinfeb-fopbyr-sanbet-sovmyl-dozsut-mogsyx-mapwyc-sorrup-ricnec-marnys-lignex',
     })
@@ -62,13 +66,31 @@ const createSampleWallets = async (
     }
 
     writeData(sampleWallet, path)
-
-    console.log(
-      `Saved ${num} wallet${
-        num > 1 ? 's' : ''
-      } in ${outputPath}. \nWallet types: planet--${planet}, star--${star}, galaxy--${galaxy}`
-    )
   }
-}
 
-createSampleWallets()
+  console.log(
+    `Saved ${num} wallet${
+      num > 1 ? 's' : ''
+    } in ${outputPath}. \nWallet types: planet--${planet}, star--${star}, galaxy--${galaxy}`
+  )
+}
+// completely random
+// createSampleWallets()
+
+// stable execution
+planetNums = [2201654818, 2359800187, 3864933521, 3137227147, 2966915059]
+starNums = [64954, 53604, 35352, 35393, 45119]
+galaxyNums = [198, 254, 135, 186, 230]
+createSampleWallets(
+  planetNums,
+  starNums,
+  galaxyNums,
+  OUTPUT_PATH,
+  true,
+  true,
+  true,
+  5
+)
+
+// 5 completely random
+// createSampleWallets(null, null, null, OUTPUT_PATH, true, true, true, 5)

@@ -10,6 +10,7 @@
   "license": "MIT",
   "main": "lib/dist/index.js",
   "dependencies": {
+    "jspdf": "^1.5.3",
     "lodash.get": "^4.4.2",
     "prop-types": "^15.7.2",
     "urbit-sigil-js": "^1.3.7"
@@ -69,7 +70,7 @@
   },
   "scripts": {
     "convert": "node tools/convert.js",
-    "genWallet": "node tools/genWallet.js",
+    "gen": "node tools/genWallet.js",
     "start": "gulp",
     "build": "gulp bundle-prod",
     "test": "jest"

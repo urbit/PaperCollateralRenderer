@@ -1,0 +1,180 @@
+[
+  {
+    "meta": {
+      "generator": {
+        "name": "urbit-key-generation",
+        "version": "0.17.0"
+      },
+      "spec": "UP8",
+      "ship": 2966915059,
+      "patp": "~dighet-rinrus",
+      "tier": "planet",
+      "derivationPath": "m/44'/60'/0'/0/0",
+      "passphrase": null
+    },
+    "ticket": "~marbud-tidsev-litsut-hidfep",
+    "shards": ["~marbud-tidsev-litsut-hidfep"],
+    "ownership": {
+      "type": "ownership",
+      "seed": "blanket equip just aware topple photo type winner few dash funny replace person analyst weapon inject height entry rigid divide firm brave charge album",
+      "keys": {
+        "public": "031cf442e8a70ffef27470b549c4639f707a3518b945572bf3b65c07324aa73386",
+        "private": "16a10a596316312fc48b1f33f6d8eafb0dc54feb0c54229e237e164a25b44c61",
+        "chain": "fc7b28d479181a1d5fec4384d71238bd0a48c7da36af01f2ed6ac65140e5b2a2",
+        "address": "0x995eBC01DD7D85a38f6832E9aae77979730cBC4a"
+      }
+    },
+    "transfer": {
+      "type": "transfer",
+      "seed": "thing adult language media edit impulse transfer benefit runway pony million bamboo river pioneer cabin usual lava blanket school blame object lake shine faculty",
+      "keys": {
+        "public": "02c32d6588769f553951feb61308d68165644b90ed59182771e5d1f3db6f3aeeff",
+        "private": "24d15f49d644ad6c98eff91aebfa1057bf944d1ec36035b7ccc9d6e2fcde3e75",
+        "chain": "ad987fe366de7645e3abce3587b9175a57378ee1958bb7a533b5e29e8450700e",
+        "address": "0xD07d7d7d2643b5ccFd83211bF87dCaF9314c8dF0"
+      }
+    },
+    "spawn": {},
+    "voting": {},
+    "management": {
+      "type": "management",
+      "seed": "tribe smoke label trick chapter flee foster hotel captain crew canvas ribbon develop genre tree dream lock weekend dentist host green chase view once",
+      "keys": {
+        "public": "02386d2eca2d071436dbde7e24ecd55bc200ace729f302a92ff3a955ca0e44ece9",
+        "private": "9fd605c412550b35b4a6a40c03dcbbec23fca26ae64dadfdf8d3ef8c75b4606f",
+        "chain": "d0c21cccac6faaa3802a8fd301b5f2d2166637529a4a69c1b30488474a24de74",
+        "address": "0xbFc8B8c5968E89Ed620f0Bd09c401faaCb87D09F"
+      }
+    },
+    "network": {}
+  },
+  {
+    "meta": {
+      "generator": {
+        "name": "urbit-key-generation",
+        "version": "0.17.0"
+      },
+      "spec": "UP8",
+      "ship": 45119,
+      "patp": "~havpur",
+      "tier": "star",
+      "derivationPath": "m/44'/60'/0'/0/0",
+      "passphrase": null
+    },
+    "ticket": "~marbud-tidsev-litsut-hidfep-marbud-tidsev-litsut-hidfep",
+    "shards": ["~marbud-tidsev-litsut-hidfep-marbud-tidsev-litsut-hidfep"],
+    "ownership": {
+      "type": "ownership",
+      "seed": "medal heavy birth swear better miss link element engine leopard expect parade project priority video scare supreme interest ranch ready gauge ski beyond soda",
+      "keys": {
+        "public": "03caff729a4f9aec71f3f26314f5a34c879c678d0180dc3881aa8527575c8b4be0",
+        "private": "abfea77fe13371428a393fcaff513145afff7f8b3498eb23a27a6ffc452f081e",
+        "chain": "7d9033db7147c46cc798c3153bebbf26146faf71c9a9cc94795867b7341955e3",
+        "address": "0xd77A16352CaA4335c2A565B73c9f62deD3eC8f52"
+      }
+    },
+    "transfer": {
+      "type": "transfer",
+      "seed": "subway skirt lava copper kingdom surround forest safe strike strong spell brisk web seat goddess rose mom ancient spin genius throw rail moon property",
+      "keys": {
+        "public": "039db50c446a0c718c9842b5acd68582194f20b9c1a10dd1608c717fe72d7594b6",
+        "private": "99650f351cf9204038253c9f00e53c8163f9f7463edd6315546c22aa6f9f49d7",
+        "chain": "4fbd684e08eeffe6929180e8bbb2cad39f230f234b4991531440f82aa5639799",
+        "address": "0x4a570570069dB570347d7E98a1379124e42cF094"
+      }
+    },
+    "spawn": {
+      "type": "spawn",
+      "seed": "swear differ title cricket sun ancient pony quantum volcano vote horn knock reject slam romance hole paddle drive shuffle recall ladder east inquiry fault",
+      "keys": {
+        "public": "0333840aa390f179183b0f2a9396fe7141e15b2ede9090443bfc377da24416cc0b",
+        "private": "63e0f9dd93d981a9443b5ecab1c0bdc1840fc00fa32555156a4a999a4f81a8e9",
+        "chain": "134519c1d70d671b0dcb80a251b4a187e037ae15493c99c144d0f6d0e41bcf2f",
+        "address": "0x28bD143E367fbeCbBbe82F286EFAEcCE78690E29"
+      }
+    },
+    "voting": {},
+    "management": {
+      "type": "management",
+      "seed": "battle inject middle fortune segment yellow minute warrior escape lend control surround fuel dutch vote shuffle burden arctic keen sting winter jeans choose helmet",
+      "keys": {
+        "public": "0251df481436153ed7d3400acdca8e356274fc12b633e9b06a898d0e36a7ce0569",
+        "private": "b1a6fefd04b386897ed484bd74420215f1e972e90e61c92867d9ed94fe21d335",
+        "chain": "0120a19f25589455a0f85778e5bd843599c7fdb21b92410ce4256c594e83af45",
+        "address": "0x305CA88E879F38FE0b0f893f6BE61f5d43bD2d6A"
+      }
+    },
+    "network": {}
+  },
+  {
+    "meta": {
+      "generator": {
+        "name": "urbit-key-generation",
+        "version": "0.17.0"
+      },
+      "spec": "UP8",
+      "ship": 230,
+      "patp": "~nys",
+      "tier": "galaxy",
+      "derivationPath": "m/44'/60'/0'/0/0",
+      "passphrase": null
+    },
+    "ticket": "~wacfus-dabpex-danted-mosfep-pasrud-lavmer-nodtex-taslus-pactyp-milpub-pildeg-fornev-ralmed-dinfeb-fopbyr-sanbet-sovmyl-dozsut-mogsyx-mapwyc-sorrup-ricnec-marnys-lignex",
+    "shards": [
+      "~wacfus-dabpex-danted-mosfep-pasrud-lavmer-nodtex-taslus-pactyp-milpub-pildeg-fornev-ralmed-dinfeb-fopbyr-sanbet",
+      "~pactyp-milpub-pildeg-fornev-ralmed-dinfeb-fopbyr-sanbet-sovmyl-dozsut-mogsyx-mapwyc-sorrup-ricnec-marnys-lignex",
+      "~wacfus-dabpex-danted-mosfep-pasrud-lavmer-nodtex-taslus-sovmyl-dozsut-mogsyx-mapwyc-sorrup-ricnec-marnys-lignex"
+    ],
+    "ownership": {
+      "type": "ownership",
+      "seed": "work debate shuffle suggest shadow uncover buddy setup wrap custom truly cricket memory school civil wagon gentle sustain news cactus rent furnace session primary",
+      "keys": {
+        "public": "03f8787ec08e26b092246d1b27c0e5fd96775269aed43087c1a597f520ef8c5e7e",
+        "private": "b33de1388aed38372ce83318641a91ebebe7b51242bc9c8e84c6fccd33348bef",
+        "chain": "397a48c38ebfaac5a715797e326f03e74f5ee6fca3dd24e913c4970d3f4d30bc",
+        "address": "0xC54F49C077E677e21A1BB71301494c84993bA346"
+      }
+    },
+    "transfer": {
+      "type": "transfer",
+      "seed": "sell moral evidence maximum small crime lens neck foster observe piece illegal hungry age cinnamon have adapt dolphin letter frown palm bulb case city",
+      "keys": {
+        "public": "038e5a874e99204169a8dbf722bbea092280313a012cace3f20f526c28295e553b",
+        "private": "44d0ed4cc13ae6b236b30ca0bc714ebf486ae2d59a0ca98cecc10559aca6f968",
+        "chain": "d4fcfcd177c544fadc39eba1bb6ad99f28bed5526fe558c7984f633e3c6a3bb3",
+        "address": "0xB34c10e2803492eDa42725455B51e67AeA56B9AE"
+      }
+    },
+    "spawn": {
+      "type": "spawn",
+      "seed": "brief flight uncle ramp song spawn lawsuit this six mountain distance thank mean royal occur promote winner nature degree innocent expect left refuse approve",
+      "keys": {
+        "public": "03c6c7be334d684a00741887ea123c78c0a9db90bd85260525f53631571f740c29",
+        "private": "1517b10cdef2e4d02140f8b80d7b07c20891aca562c520882251dfef533d8960",
+        "chain": "9ad57fe0fb4808d83779b2ba9c9bde3baabd37389a454302c5b0fddac47e8542",
+        "address": "0x667503d4c5a2824572Fbd00A60fE61342DFad7d8"
+      }
+    },
+    "voting": {
+      "type": "voting",
+      "seed": "play edge weather disorder couple soccer strike wink laugh tooth staff bubble blade fee insane nice decrease dumb hurdle spawn dinner canal reason shine",
+      "keys": {
+        "public": "035d9685d2bfeca0290c3b874fa052a6ef0559d36d362cc5269e201b77d321b27e",
+        "private": "e5de6fa6fc5dc5c24732aec478945710687040e13a8143959a7a3326c49991ac",
+        "chain": "9d0cca04744faa1ed81c302eb95590c84721ea83060efa9082e227b560ce98bb",
+        "address": "0x5d90bBb3e01447f0267de17963648c53cf0d10F6"
+      }
+    },
+    "management": {
+      "type": "management",
+      "seed": "jeans crawl noise guide vapor side hurry pelican chest file lend trade year race speed clerk nothing slice monkey elegant couch trip weasel payment",
+      "keys": {
+        "public": "03c3b6c6b468a9868f96cac8e212693328e3de43489b283b6f074b653ecddcbfb9",
+        "private": "e3db2a1cd6c25fc62a88e75778330d66be056836835a6638f3a1445481fd6645",
+        "chain": "273c5cc5eaee6e1e253bfcbea9a22b99965c106991ad7dfada11e907f30f615d",
+        "address": "0xa01052eddA6e93e55c33cb0f1D2fA505c769dbAF"
+      }
+    },
+    "network": {}
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "meta": {
+      "generator": {
+        "name": "urbit-key-generation",
+        "version": "0.17.0"
+      },
+      "spec": "UP8",
+      "ship": 3864933521,
+      "patp": "~wicreb-fottuc",
+      "tier": "planet",
+      "derivationPath": "m/44'/60'/0'/0/0",
+      "passphrase": null
+    },
+    "ticket": "~marbud-tidsev-litsut-hidfep",
+    "shards": ["~marbud-tidsev-litsut-hidfep"],
+    "ownership": {
+      "type": "ownership",
+      "seed": "off woman talent report add foil breeze couple witness half flee afford churn copy tool buffalo slender entry bacon today weather farm meat critic",
+      "keys": {
+        "public": "026832260f840aa540906081bfc58905383a4aeddd466fff001530299179d30c07",
+        "private": "845f8d0a165bab2c047107264c1a3564e936de6cc95ab0886a04638539f5468a",
+        "chain": "bf113202c1626f5e115bfca6baa8e9ab101848eecda2aa75a39a3b63498d1663",
+        "address": "0xB5F28C8471c83BA2116Ffd57a328FE2160A2c546"
+      }
+    },
+    "transfer": {
+      "type": "transfer",
+      "seed": "unit piano search sentence trip crowd large disagree drift funny hope art mobile legal south senior bless inform angle globe zone medal brass abuse",
+      "keys": {
+        "public": "03a5484d67f0976bdcdda87a2fcf327f5c8557efa2c80206c2bd7e1007657f5d65",
+        "private": "f7a372d2dd7a1a9390316db68445464ab6b6762f87865533f84e5c7e33f6a917",
+        "chain": "5f70486b47dd5870344983ccb6a0d4d72bbf6e6983999a0e0bff7e4645235c01",
+        "address": "0x91Aa94e534259a63e986Efec02b27566e9f6B79E"
+      }
+    },
+    "spawn": {},
+    "voting": {},
+    "management": {
+      "type": "management",
+      "seed": "liquid review permit glass antenna boy item square property river main cross airport valve audit section carbon major fat candy column ginger addict tennis",
+      "keys": {
+        "public": "02165b7328cfc97fcd189c264273ee0dba31f6e66071739bd68a2d71a91d1a85df",
+        "private": "848702a97bd0c6bf9bbf8c737dbb9e8c2bd3532fc314fd2461836a8594e594ef",
+        "chain": "e044a07c99c25cf3543472e036cbd333e95c9b3c7702a58962d18c9703f15339",
+        "address": "0xd3eedE52B3ebEf10FD0d5eB3601985f1c83077D6"
+      }
+    },
+    "network": {}
+  },
+  {
+    "meta": {
+      "generator": {
+        "name": "urbit-key-generation",
+        "version": "0.17.0"
+      },
+      "spec": "UP8",
+      "ship": 35352,
+      "patp": "~figdys",
+      "tier": "star",
+      "derivationPath": "m/44'/60'/0'/0/0",
+      "passphrase": null
+    },
+    "ticket": "~marbud-tidsev-litsut-hidfep-marbud-tidsev-litsut-hidfep",
+    "shards": ["~marbud-tidsev-litsut-hidfep-marbud-tidsev-litsut-hidfep"],
+    "ownership": {
+      "type": "ownership",
+      "seed": "raccoon undo dove crash wood accident marine fiction major desk couple baby leopard bring famous barely crystal pioneer bomb dice under best fade guard",
+      "keys": {
+        "public": "022e637fe2444bde5bfbc3e7f70def949ae5c5082226be1e50b7ee88ce3f323bd0",
+        "private": "f6f5fb3648e9dd6023f3edc15d8aa1d58af8d3565d516cb89e6a6dc1f58cbc2e",
+        "chain": "608c1fdcbb011fba3299c63329da315a0c6d26de549ab76cbcbbca850bf1119b",
+        "address": "0xA14729FA97c82D399c939Db23764ec0C429F2672"
+      }
+    },
+    "transfer": {
+      "type": "transfer",
+      "seed": "winter reopen hospital acid ladder marble burger repair raccoon banner rail become female blanket shield advance license ivory burst volume cruel aim flame uphold",
+      "keys": {
+        "public": "025220085a84f05927f28f9dcfb778f2cf366853b44c711ca619302c2fc4ed00e2",
+        "private": "ea25cae8ce0b137e8373aab42d71e7fa803c32fbb35407bd62d39234f25192c6",
+        "chain": "b5370efa54bcac326d11105daaf970caa1462dcfdada7f14f7b8a52eed6a5619",
+        "address": "0x0F861e5ecF244016dcDfAb916897755d259c27f3"
+      }
+    },
+    "spawn": {
+      "type": "spawn",
+      "seed": "ritual never super talent check order chat side private rough couch position ginger submit position width forum gasp noble mouse bundle damage vocal point",
+      "keys": {
+        "public": "027a46e273fca44e7b2f56103533bd130a032b91c2534a3347472331c294f13c0e",
+        "private": "2cf06d7f87b22847a7d977daee39b8e082605b56f393e4a8d46e077f3a095aef",
+        "chain": "8bfd5afcfa3c3aca7a9d901b4fc35a5b9810a1456d41e37c9ba175707377b926",
+        "address": "0xc981fbE8F470c654648573CbCb6e71b328cbCf22"
+      }
+    },
+    "voting": {},
+    "management": {
+      "type": "management",
+      "seed": "direct actor lyrics jelly resource federal copy portion pen tone hobby achieve east aware often tank attitude key develop paper banana meadow mom bulb",
+      "keys": {
+        "public": "02ebecbe86ba6d99558484b0b150eae07fb907ff456b03428a6aa48db670de2b6d",
+        "private": "54a3697b6e401310ca24fd7338a987605621b2b45a4c8def4f5c0d75ece0291e",
+        "chain": "0c4aca40a86aab2ea1f8abfc3afc805e9552f80a5939655a7a2abc4c4da60f68",
+        "address": "0x7d5B47cf70cC17a8925bd34b956d1BA0aADa571A"
+      }
+    },
+    "network": {}
+  },
+  {
+    "meta": {
+      "generator": {
+        "name": "urbit-key-generation",
+        "version": "0.17.0"
+      },
+      "spec": "UP8",
+      "ship": 135,
+      "patp": "~pun",
+      "tier": "galaxy",
+      "derivationPath": "m/44'/60'/0'/0/0",
+      "passphrase": null
+    },
+    "ticket": "~wacfus-dabpex-danted-mosfep-pasrud-lavmer-nodtex-taslus-pactyp-milpub-pildeg-fornev-ralmed-dinfeb-fopbyr-sanbet-sovmyl-dozsut-mogsyx-mapwyc-sorrup-ricnec-marnys-lignex",
+    "shards": [
+      "~wacfus-dabpex-danted-mosfep-pasrud-lavmer-nodtex-taslus-pactyp-milpub-pildeg-fornev-ralmed-dinfeb-fopbyr-sanbet",
+      "~pactyp-milpub-pildeg-fornev-ralmed-dinfeb-fopbyr-sanbet-sovmyl-dozsut-mogsyx-mapwyc-sorrup-ricnec-marnys-lignex",
+      "~wacfus-dabpex-danted-mosfep-pasrud-lavmer-nodtex-taslus-sovmyl-dozsut-mogsyx-mapwyc-sorrup-ricnec-marnys-lignex"
+    ],
+    "ownership": {
+      "type": "ownership",
+      "seed": "pulse grow program relief allow warrior oblige expect layer capable gym together journey coin must design dry news stairs cluster stock clown can topple",
+      "keys": {
+        "public": "02e48131dac83b84d1661053f25eb5e2fef7684e622233ffa1a0e26f609878b6ef",
+        "private": "94f9956b5698025f1f8534afc46bc626a8bbd8858b1eefbde5760ee52e5b91de",
+        "chain": "3583ca738a18e4104b9c403dc04c4bb582a0e9df981564679066f2613d3a846a",
+        "address": "0xa9656f04d1a9A54ba2304B0cfe3bfd1cDFbEd259"
+      }
+    },
+    "transfer": {
+      "type": "transfer",
+      "seed": "inflict curve vacant south obvious slice another response lumber state sight bird draw soccer scare flush deliver trend symbol snack improve chuckle romance uncle",
+      "keys": {
+        "public": "02d807adb92dc9f4258587749e73db300a11a32491550523a68592c7b183a7e2b8",
+        "private": "c9615a81a07ea26f9184dd7920dbfe666e5b6fff7e863a7e9b26b4d0ca5bce61",
+        "chain": "9969fb9333e9274d5e3b21d246c1031947e5ac3eb4d46112e59f2323fba7b944",
+        "address": "0x2d5a2041e9542105E5c8aA9b8B9D9DA831cD5eAC"
+      }
+    },
+    "spawn": {
+      "type": "spawn",
+      "seed": "write blast couch jelly fruit thank fatal vivid congress reflect harbor across flag cup grain major salt arrive mandate liquid person antenna bronze leg",
+      "keys": {
+        "public": "0255aa146d37fb5deede3039b84368d4fc54916da057a320870376be79e46538cb",
+        "private": "1f9093f85a5b5c4fec33b8db6e7af20ccab45e27648a01ff4fea3dd5203717e1",
+        "chain": "439af54bab08ac6979bb04a67f149d124bea21bde5a14fe54486eaebdc349b43",
+        "address": "0x7a50e9Af5Bb21617b30e459d73f20c9cEFA12f51"
+      }
+    },
+    "voting": {
+      "type": "voting",
+      "seed": "clip love pulp suspect morning royal foster rigid kid diagram crash crack afraid click frown reject dignity steak blossom coyote pet energy point rely",
+      "keys": {
+        "public": "0293b9f0c42ccb82ce65dfed9f84adfc963b04f2e592f11a4fd65a98beef70aac4",
+        "private": "ef9efebbce99993acde10872def59be877cb8d5c71f716cfb069e8d5d9675344",
+        "chain": "3afcc1b69ebd0668381119cbf10ec7173908d1ce09919250e1febefe9c772fd5",
+        "address": "0x07142bE2935A541305c86ecd8d30F074dC5396D5"
+      }
+    },
+    "management": {
+      "type": "management",
+      "seed": "recycle oil effort plate calm hub account sting diesel stone move damp phrase path poem ill daring mean script opera cheese bicycle exhibit quality",
+      "keys": {
+        "public": "02729c003cc0a3931e0a1231cd5af96b3991262bb09f3cc5a4afce68ba443e5c76",
+        "private": "2b41976d72816f496bed67936864fac0f71617eaf983130b3cff20e8712c4f25",
+        "chain": "6b6aecf49caa20e9ec933d25fb7eb9549c2cbac209f2ce3039b192bc9c25f8de",
+        "address": "0x5Dd08Fd1887997e73b6f329CEfbaf601cEf3aaFB"
+      }
+    },
+    "network": {}
+  }
+]

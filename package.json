@@ -33,7 +33,6 @@
     "gulp-cssnano": "^2.1.2",
     "gulp-gzip": "^1.4.2",
     "gulp-header": "^2.0.7",
-    "gulp-inline-fonts": "github:urbit/gulp-inline-fonts",
     "gulp-minify": "^3.1.0",
     "gulp-rename": "^1.4.0",
     "gulp-run": "^1.7.1",
